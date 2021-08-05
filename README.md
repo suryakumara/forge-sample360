@@ -1,5 +1,11 @@
-## Forge Sample with BIM 360
+# Forge Sample with BIM 360
 
-# Getting Start
+## Getting Start
 
-`npm start `
+```sh
+npm install
+```
+
+```sh
+npm start
+```
