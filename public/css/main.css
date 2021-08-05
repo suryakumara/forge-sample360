@@ -1,0 +1,45 @@
+html,
+body {
+  min-height: 100%;
+  height: 100%;
+}
+
+.fill {
+  height: calc(100vh - 100px);
+}
+
+body {
+  padding-top: 60px; /* space for the top nav bar */
+  margin-right: 30px;
+}
+
+#userHubs {
+  overflow: auto;
+  width: 100%;
+  height: calc(100vh - 150px);
+}
+
+#forgeViewer {
+  width: 100%;
+}
+
+.moveLeft {
+  background-image: url(https://img.icons8.com/flat-round/64/000000/arrow-left.png);
+  background-size: 24px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.restrictedArea {
+  background-image: url(https://img.icons8.com/office/16/000000/restrict.png);
+  background-size: 24px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.RestrictedAreaMB {
+  background-image: url(https://img.icons8.com/office/16/000000/restrict.png);
+  background-size: 24px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
